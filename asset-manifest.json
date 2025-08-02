@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/locallink-app/static/js/main.213f9add.js",
+    "index.html": "/locallink-app/index.html",
+    "main.213f9add.js.map": "/locallink-app/static/js/main.213f9add.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.213f9add.js"
+  ]
+}
